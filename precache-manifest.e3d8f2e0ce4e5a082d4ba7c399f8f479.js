@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/myPage-zzy/static/media/No18.54622645.jpeg"
   },
   {
-    "revision": "9284ef2a915105da3245",
+    "revision": "a761b5a9d81b004eb631",
     "url": "/myPage-zzy/static/css/main.cdad6249.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/myPage-zzy/static/media/No9.24ba3602.jpeg"
   },
   {
-    "revision": "c8f36ffedd4cc353680f",
-    "url": "/myPage-zzy/static/js/2.c49474b6.chunk.js"
+    "revision": "352a9a60e50593fe7a76",
+    "url": "/myPage-zzy/static/js/2.59675060.chunk.js"
   },
   {
     "revision": "2fb78c8e654add0867d4eb4e759d260b",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/myPage-zzy/static/media/No17.10ca4f35.jpeg"
   },
   {
-    "revision": "9284ef2a915105da3245",
-    "url": "/myPage-zzy/static/js/main.1f497c79.chunk.js"
+    "revision": "a761b5a9d81b004eb631",
+    "url": "/myPage-zzy/static/js/main.46e7cd68.chunk.js"
   },
   {
     "revision": "4ca143e6a9fcd4c4085d6a5105b60bcc",
@@ -136,11 +136,11 @@ self.__precacheManifest = [
     "url": "/myPage-zzy/static/media/No8.5f3358b5.jpeg"
   },
   {
-    "revision": "c8f36ffedd4cc353680f",
+    "revision": "352a9a60e50593fe7a76",
     "url": "/myPage-zzy/static/css/2.a240d95d.chunk.css"
   },
   {
-    "revision": "fbf91f813244b69856f10adb48ddffdc",
+    "revision": "8c558da4ba7345ae946c218f9b867d5d",
     "url": "/myPage-zzy/index.html"
   }
 ];
