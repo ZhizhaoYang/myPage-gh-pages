@@ -1,14 +1,14 @@
 {
-  "main.css": "/myPage-gh-pages/static/css/main.fa335d46.chunk.css",
-  "main.js": "/myPage-gh-pages/static/js/main.b156d142.chunk.js",
-  "main.js.map": "/myPage-gh-pages/static/js/main.b156d142.chunk.js.map",
-  "runtime~main.js": "/myPage-gh-pages/static/js/runtime~main.2d766a10.js",
-  "runtime~main.js.map": "/myPage-gh-pages/static/js/runtime~main.2d766a10.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/myPage-gh-pages/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/myPage-gh-pages/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/myPage-gh-pages/index.html",
-  "precache-manifest.067e80942cb33ab4aa44b162fd6198c8.js": "/myPage-gh-pages/precache-manifest.067e80942cb33ab4aa44b162fd6198c8.js",
-  "service-worker.js": "/myPage-gh-pages/service-worker.js",
-  "static/css/main.fa335d46.chunk.css.map": "/myPage-gh-pages/static/css/main.fa335d46.chunk.css.map",
-  "static/media/logo.svg": "/myPage-gh-pages/static/media/logo.5d5d9eef.svg"
+  "main.css": "/myPage-zzy/static/css/main.fa335d46.chunk.css",
+  "main.js": "/myPage-zzy/static/js/main.aabce5e3.chunk.js",
+  "main.js.map": "/myPage-zzy/static/js/main.aabce5e3.chunk.js.map",
+  "runtime~main.js": "/myPage-zzy/static/js/runtime~main.b0a1d9bf.js",
+  "runtime~main.js.map": "/myPage-zzy/static/js/runtime~main.b0a1d9bf.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/myPage-zzy/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/myPage-zzy/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/myPage-zzy/index.html",
+  "precache-manifest.5f8b6294c1a1a6fba972bf0e2493508f.js": "/myPage-zzy/precache-manifest.5f8b6294c1a1a6fba972bf0e2493508f.js",
+  "service-worker.js": "/myPage-zzy/service-worker.js",
+  "static/css/main.fa335d46.chunk.css.map": "/myPage-zzy/static/css/main.fa335d46.chunk.css.map",
+  "static/media/logo.svg": "/myPage-zzy/static/media/logo.5d5d9eef.svg"
 }
